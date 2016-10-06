@@ -1,6 +1,7 @@
-# react-swipeable-views
+# react-swipeable-views-modified
 
-> A React component for swipeable views.
+> !!!This is a temp bug fix version of react-swipeable-views !!!.
+> There is a small issue in react-swipeable-views, I have made a pull request on github, this is only used for those who needed and will be removed when the pull request is accepted by the original author, thanks a lot!
 
 [![npm version](https://img.shields.io/npm/v/react-swipeable-views.svg?style=flat-square)](https://www.npmjs.com/package/react-swipeable-views)
 [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views.svg?style=flat-square)](https://www.npmjs.com/package/react-swipeable-views)
