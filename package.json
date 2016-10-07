@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-views-modified",
-  "version": "0.7.10",
+  "version": "0.7.11",
   "description": "A React component for swipeable views",
   "main": "lib/index.js",
   "scripts": {
@@ -67,7 +67,7 @@
     "eslint-plugin-mocha": "^4.5.1",
     "eslint-plugin-react": "^6.3.0",
     "extract-text-webpack-plugin": "^1.0.1",
-    "flow-bin": "^0.30.0",
+    
     "glob": "^7.1.0",
     "html-webpack-plugin": "^2.22.0",
     "ip": "^1.0.1",
